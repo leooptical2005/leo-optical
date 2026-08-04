@@ -160,7 +160,7 @@ document.querySelectorAll('.frame-slideshow').forEach(initSlideshow);
 // reply-to set to the customer's address. See README.md for setup.
 // Falls back to a plain form POST (still works, just leaves the page)
 // if JavaScript is unavailable.
-const CONTACT_ENDPOINT = 'https://script.google.com/macros/s/AKfycbwMBsJpINvrefQQmo0AbC4akMxp0vDPzF06Rb_p_mgRaulYhNBwKIXFZHV7YDySy_dS/exec';
+const CONTACT_ENDPOINT = 'https://script.google.com/macros/s/AKfycbwMBsJplNvrefQQmo0AbC4akMxp0vDPzF06Rb_p_mgRaulYhNBwKIXFZHV7YDySy_dS/exec';
 
 const contactForm = document.getElementById('contactForm');
 
